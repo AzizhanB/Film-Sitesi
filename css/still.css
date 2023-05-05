@@ -1,0 +1,365 @@
+.govde {
+    background-color: #282546;
+    margin: 0%;
+    padding: 0%;
+}
+
+.ust {
+    background-color: #120907;
+    margin: 0%;
+    padding: 0%;
+}
+
+.logo {
+    margin-top: 1%;
+    margin-left: 1%;
+    vertical-align: middle;
+}
+
+.button {
+    background-color: #282546;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-left: 25%;
+}
+
+.button2 {
+    background-color: #120907;
+    color: white;
+    border: 2px solid #282546;
+    padding: 13px 30px;
+    margin: 4px 2px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    display: inline-block;
+    border-radius: 4px;
+}
+
+.button2:hover {
+    background-color: #282546;
+    color: white;
+}
+
+.button3 {
+    background-color: #120907;
+    color: white;
+    border: 2px solid #282546;
+    padding: 13px 30px;
+    margin: 4px 2px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    display: inline-block;
+    border-radius: 4px;
+}
+
+.button3:hover {
+    background-color: #282546;
+    color: white;
+}
+
+.button4 {
+    background-color: #120907;
+    color: white;
+    border: 2px solid #282546;
+    padding: 13px 30px;
+    margin: 4px 2px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    display: inline-block;
+    border-radius: 4px;
+}
+
+.button4:hover {
+    background-color: #282546;
+    color: white;
+}
+
+.button5 {
+    background-color: #120907;
+    color: white;
+    border: 2px solid #282546;
+    padding: 13px 30px;
+    margin: 4px 2px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    display: inline-block;
+    border-radius: 4px;
+}
+
+.button5:hover {
+    background-color: #282546;
+    color: white;
+}
+
+.button6 {
+    background-color: #282546;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.ust1 {
+    background-color: #615c99;
+    height: 50px;
+}
+
+.l1 {
+    font-size: 20px;
+    padding-left: 4%;
+    vertical-align: middle;
+    padding-top: 1%;
+
+}
+
+.l2 {
+    font-size: 20px;
+    padding-left: 2%;
+    vertical-align: middle;
+
+}
+
+.l3 {
+    font-size: 20px;
+    padding-left: 2%;
+    vertical-align: middle;
+
+}
+
+.l4 {
+    font-size: 20px;
+    padding-left: 2%;
+    vertical-align: middle;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.example {
+    float: right;
+}
+
+form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 80%;
+    background: #f1f1f1;
+    margin-left: -15%;
+}
+
+form.example button {
+    float: left;
+    width: 20%;
+    height: 42px;
+    padding: 10px;
+    background: #282546;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+}
+
+.ortasol {
+    margin-left: 10%;
+    margin-top: 3%;    
+    background-color:#e8d1ed;
+    float: left;
+    padding-left: 2%;
+    padding-top: 2%;
+    width: 45%;
+}
+
+.img2 {
+    margin-top: 1%;
+    width: 30%;
+    height: 30%;
+}
+
+.img3 {
+    margin-top: 1%;
+    width: 30%;
+    height: 30%;
+}
+
+.img4 {
+    margin-top: 1%;
+    width: 30%;
+    height: 30%;
+}
+
+.img5 {
+    margin-top: 1%;
+    width: 30%;
+    height: 30%;
+}
+
+.img6 {
+    margin-top: 1%;
+    width: 30%;
+    height: 30%;
+}
+
+.img7 {
+    margin-top: 1%;
+    width: 30%;
+    height: 30%;
+}
+
+.img8 {
+    margin-top: 1%;
+    width: 30%;
+    height: 30%;
+}
+
+.img9 {
+    margin-top: 1%;
+    width: 30%;
+    height: 30%;
+}
+
+.img10 {
+    margin-top: 1%;
+    width: 30%;
+    height: 30%;
+}
+
+.img11 {
+    margin-top: 1%;
+    width: 30%;
+    height: 30%;
+}
+
+.img12 {
+    margin-top: 1%;
+    width: 30%;
+    height: 30%;
+}
+
+.img13 {
+    margin-top: 1%;
+    width: 30%;
+    height: 30%;
+}
+
+.img14 {
+    margin-top: 1%;
+    width: 30%;
+    height: 30%;
+}
+
+.img15 {
+    margin-top: 1%;
+    width: 30%;
+    height: 30%;
+}
+
+.img16 {
+    margin-top: 1%;
+    width: 30%;
+    height: 30%;
+}
+
+.img17 {
+    margin-top: 1%;
+    width: 30%;
+    height: 30%;
+}
+
+.img18 {
+    margin-top: 1%;
+    width: 30%;
+    height: 30%;
+}
+
+.img19 {
+    margin-top: 1%;
+    width: 30%;
+    height: 30%;
+}
+
+.img20 {
+    
+    margin-top: 2%;
+    width: 40%;
+    height: 40%;
+    margin-left: 52%;
+    margin-bottom: 2%;
+}
+
+
+
+.ortasag {
+    width: 34%;
+    margin-top: 3%;
+    margin-right: 10%;
+    padding-right: 3%;
+    padding-top: 3%;
+    float: right;
+    background-color:#e8d1ed;
+}
+
+.img21 {
+    width: 70%;
+    height: 70%;
+    margin-bottom: 1%;
+}
+
+.img22 {
+    width: 70%;
+    height: 70%;
+    margin-bottom: 1%;
+
+}
+
+.img23 {
+    width: 70%;
+    height: 70%;
+    margin-bottom: 1%;
+
+}
+
+.img24 {
+    width: 70%;
+    height: 70%;
+    margin-bottom: 1%;
+
+}
+
+.img25 {
+    width: 70%;
+    height: 70%;
+    margin-bottom: 1%;
+
+}
+
+.temizle {
+    clear: both;
+}
+
+.img26 {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
